@@ -125,17 +125,7 @@ cor(c.model$model$c, c.model$fitted.values)
 cor.test(flights$price,flights$time,flights$distance)$p.value
 
 
-#LABA 2
-
-
-#to.remove <- c('travelCode') 
-#flights1 <- flights[, !colnames(flights) %in% to.remove]
-#flights1
-
-#flights2 <- flights[, -2]
-#flights2
-
-
+#LAB 2
 
 newflights <- flights[,c("price","distance","time")]
 View(newflights)
