@@ -1,13 +1,21 @@
 # project1
 
-Датасет за посиланням, який було використано в лабораторній роботі: https://www.kaggle.com/leomauro/argodatathon2019
-Цей датасет – дані про польоти пасажирськими літаками, складається із трьох файлів, я працювала із файлом flights.csv, де знайшла 3 потрібні змінні, а саме ціна польоту, час та відстань між аеропортами. Також була надана інформація про тип польоту таз якого в який аеропорт вилітає літак.
-Попередня обробка даних
+1. Input information
+Dataset according to the link that was used in the lab work:
+https://www.kaggle.com/leomauro/argodatathon2019
+This dataset - information about flights by passenger planes, consists of
+three files, I worked with the flights.csv file, where I found 3 required variables,
+namely flight price, time and distance between airports. It was also provided
+information about the type of flight and to which airport the plane departs.
 
-Для початку, визначимося який тип змінних використовується в роботі.
-Маємо скалярні кількісні змінні, тому що їхня область значень належить полю дійсних чисел. 
-Дізнаємося, як виглядає емпірична функція розподілу для кожної скалярної змінної. 
+2. Pre-processing of data
+To begin with, let's determine what type of variables is used in the work.
+We have scalar quantitative variables because their range of values belongs to
+field of real numbers.
 
-Photo(1)
+We learn what the empirical distribution function looks like for each scalar
+variable
+
+![Photo(1)](image.)
 
 Photo(2)
