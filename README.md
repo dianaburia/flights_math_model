@@ -15,6 +15,7 @@ field of real numbers.
 
 We learn what the empirical distribution function looks like for each scalar
 variable
+2
 
 ![Photo(1)](image.)
 
