@@ -12,7 +12,6 @@ information about the type of flight and to which airport the plane departs.
 To begin with, let's determine what type of variables is used in the work.
 We have scalar quantitative variables because their range of values belongs to
 field of real numbers.
-2
 
 We learn what the empirical distribution function looks like for each scalar
 variable
