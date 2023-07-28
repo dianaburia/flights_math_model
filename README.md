@@ -1,4 +1,4 @@
-# project1
+# Flights Math Model
 
 1. Input information
 Dataset according to the link that was used in the lab work:
